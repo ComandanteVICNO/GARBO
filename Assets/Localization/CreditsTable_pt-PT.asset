@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: CreditsTable_pt-PT
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt-PT
+  m_SharedData: {fileID: 11400000, guid: 05dba224562997842802ce0c0349d0b3, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 5318819840
+    m_Localized: "Programa\xE7\xE3o e Scripting:\nFrancisco Jos\xE9 Gon\xE7alves"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 316339044352
+    m_Localized: 'Sprites e Interface de Utilizador:
+
+      Bruno Almeida
+
+      Daniela
+      Monteiro'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 965952847872
+    m_Localized: "Modela\xE7\xE3o 3D:\nJorge Daniel Alexandre"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1499883552768
+    m_Localized: "M\xFAsica e Efeitos Sonoros:\nSons Livres de Royalties"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

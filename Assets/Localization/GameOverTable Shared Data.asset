@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: GameOverTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: GameOverTable
+  m_TableCollectionNameGuidString: a3e9ac6ee00e09a4da9f3e7be2e77ebc
+  m_Entries:
+  - m_Id: 8237281280
+    m_Key: GameOverText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86784012288
+    m_Key: GameOverScore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 647109472256
+    m_Key: RestartButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677107134464
+    m_Key: MainMenuButton
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 1269999951571058695
+  references:
+    version: 2
+    RefIds:
+    - rid: 1269999951571058695
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1704943642384

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TutorialTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: e4efd98220d29504f93675578c15c16a, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 5561315328
+    m_Localized: How to play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 341894164480
+    m_Localized: "Playing G.A.R.B.O is simple! Here's a brief explanation of what
+      you need to do.\r\n\r\nDrag the objects that appear on the map to their respective
+      bins.\r\n\r\nIn the \"Timer\" gamemode, recycle as many objects as possible
+      in their bins to achieve a maximum score!\n \r\nIn the \"Error\" gamemode recycle
+      as many objects as possible, but be careful! If you make more than three mistakes,
+      you lose the game and your points. \r\n\nTo switch between game modes, visit
+      the options menu!"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

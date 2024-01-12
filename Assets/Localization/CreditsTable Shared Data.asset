@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: CreditsTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: CreditsTable
+  m_TableCollectionNameGuidString: 05dba224562997842802ce0c0349d0b3
+  m_Entries:
+  - m_Id: 5318819840
+    m_Key: Coding
+    m_Metadata:
+      m_Items: []
+  - m_Id: 316339044352
+    m_Key: SpritesUI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 965952847872
+    m_Key: 3DModeling
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1499883552768
+    m_Key: Audio
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7416445893702844418
+  references:
+    version: 2
+    RefIds:
+    - rid: 7416445893702844418
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1705022315905

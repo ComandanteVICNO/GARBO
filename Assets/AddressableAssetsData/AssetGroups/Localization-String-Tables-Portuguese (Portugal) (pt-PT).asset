@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Portuguese (Portugal) (pt-PT)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Portuguese (Portugal) (pt-PT)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0f5f021d51a18c1459e81b9262bc6b6f
+  m_SerializeEntries:
+  - m_GUID: bb800911cba5a8745bbf97adab9ead77
+    m_Address: ButtonsTable_pt-PT
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-PT
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69cd7322667a549429526b6ceb996b1f
+    m_Address: MenuTextTable_pt-PT
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-PT
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a4e81750d0db8449a0096245257925e
+    m_Address: InGameTable_pt-PT
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-PT
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67f7c207db7e3f746bd9db5bd307bf60
+    m_Address: TutorialTable_pt-PT
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-PT
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 73bc7e76e41e4334e8c6d207e39ef031
+    m_Address: GameOverTable_pt-PT
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-PT
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d61431bb6f53a741a76e9fea5973ffc
+    m_Address: CreditsTable_pt-PT
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-PT
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 21d7ee17c8ed5bc458d70af08c040fad, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7ff85de0725aad540afacfc5c3357655, type: 2}
+    - {fileID: 11400000, guid: 9e3a616df94041f478545d0f5d856ddb, type: 2}

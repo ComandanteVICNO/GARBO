@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MenuTextTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 690e40f488adeba4eaa40be9b8564833, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 7416445686775283729
+  m_TableData:
+  - m_Id: 118615359488
+    m_Localized: Do you really wanna quit?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 394181132288
+    m_Localized: How to play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 500510932992
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2859098095616
+    m_Localized: This is how you play :)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12692195966894080
+    m_Localized: 'Language:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12721078216867840
+    m_Localized: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12721282898903040
+    m_Localized: Sound Effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12733675699879936
+    m_Localized: 'Gamemode:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12734425909870592
+    m_Localized: Timed
+    m_Metadata:
+      m_Items:
+      - rid: 7416445686775283729
+  - m_Id: 14891413360001024
+    m_Localized: 'Facts '
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 7416445686775283729
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00c0c694e43d2d00

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: InGameTable_pt-PT
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt-PT
+  m_SharedData: {fileID: 11400000, guid: c640d58a724faab48b2a700979b014a9, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 30950211584
+    m_Localized: "Pontua\xE7\xE3o M\xE1xima: "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 191466225664
+    m_Localized: "Pontua\xE7\xE3o: "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 608828833792
+    m_Localized: 'Erros: '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1528434180096
+    m_Localized: 'Temporizador: '
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

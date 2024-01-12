@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TutorialTable_pt-PT
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt-PT
+  m_SharedData: {fileID: 11400000, guid: e4efd98220d29504f93675578c15c16a, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 5561315328
+    m_Localized: Como jogar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 341894164480
+    m_Localized: "Jogar G.A.R.B.O \xE9 simples! Aqui est\xE1 uma breve explica\xE7\xE3o
+      do que tens de fazer.\r\n\r\nArrastar os objetos que aparecem no mapa para
+      o seu respetivo contentor.\r\n\r\nNo modo de jogo \"Temporizador\" recicla
+      o m\xE1ximo de objetos poss\xEDvel nos seus contentores para obter uma pontua\xE7\xE3o
+      m\xE1xima!\r\n\nNo modo de jogo \"Erro\" recicla o m\xE1ximo de objetos poss\xEDvel
+      mas tem cuidado! Se errares mais de tr\xEAs vezes perdes o jogo e os teus pontos.\r\n\nPara
+      alternares entre modos de jogo visita o menu de op\xE7\xF5es!"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

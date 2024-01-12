@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: InGameTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: InGameTable
+  m_TableCollectionNameGuidString: c640d58a724faab48b2a700979b014a9
+  m_Entries:
+  - m_Id: 30950211584
+    m_Key: HighScore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 191466225664
+    m_Key: Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 608828833792
+    m_Key: Error
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1528434180096
+    m_Key: Time
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7416445686775283724
+  references:
+    version: 2
+    RefIds:
+    - rid: 7416445686775283724
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1704234482043
