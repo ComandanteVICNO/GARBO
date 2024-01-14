@@ -19,28 +19,9 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 5318819840
-    m_Localized: "Coding and Scripting:\nFrancisco Jos\xE9 Gon\xE7alves"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 316339044352
-    m_Localized: 'Sprites and User Interface:
-
-      Bruno Almeida
-
-      Daniela
-      Monteiro'
-    m_Metadata:
-      m_Items: []
-  - m_Id: 965952847872
-    m_Localized: '3D Modeling:
-
-      Jorge Daniel Alexandre'
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1499883552768
-    m_Localized: 'Music and Sound Effects:
-
-      Royalty Free Sounds'
+    m_Localized: "Sprites and User Interface:\nBruno Almeida\nDaniela Monteiro\n\nCoding
+      and Scripting:\nFrancisco Jos\xE9 Gon\xE7alves\n\n3D Modeling:\nJorge Daniel
+      Alexandre\n\nMusic and Sound Effects:\nRoyalty Free Sounds"
     m_Metadata:
       m_Items: []
   references:

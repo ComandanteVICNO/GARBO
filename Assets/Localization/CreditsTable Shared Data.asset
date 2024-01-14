@@ -16,19 +16,7 @@ MonoBehaviour:
   m_TableCollectionNameGuidString: 05dba224562997842802ce0c0349d0b3
   m_Entries:
   - m_Id: 5318819840
-    m_Key: Coding
-    m_Metadata:
-      m_Items: []
-  - m_Id: 316339044352
-    m_Key: SpritesUI
-    m_Metadata:
-      m_Items: []
-  - m_Id: 965952847872
-    m_Key: 3DModeling
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1499883552768
-    m_Key: Audio
+    m_Key: Credits
     m_Metadata:
       m_Items: []
   m_Metadata:

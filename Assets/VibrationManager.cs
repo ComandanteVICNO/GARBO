@@ -23,7 +23,7 @@ public class VibrationManager : MonoBehaviour
             long durationMillis = (long)(durationInSeconds * 1000f);
 
            
-            Handheld.Vibrate();
+            //Handheld.Vibrate();
         }
         else
         {
